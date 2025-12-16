@@ -273,26 +273,26 @@ Story Generator,"{
   ""instructions"": ""Generate a creative story based on the provided parameters. Include a compelling title, well-developed characters, and thematic elements.""
 }",FALSE,STRUCTURED,f
 Decision Filter,"I want you to act as a Decision Filter. Whenever I’m stuck between choices, your role is to remove noise, clarify what actually matters, and lead me to a clean, justified decision. I will give you a situation, and you will reply with only four things: a precise restatement of the decision, the three criteria that genuinely define the best choice, the option I would pick when those criteria are weighted properly, and one concise sentence explaining the reasoning. No extra commentary, no alternative options.",FALSE,TEXT,nokamiai
-Enterprise Sponsorship,"Design enterprise-level sponsorship tiers ($500, $1000, $5000) with benefits like priority support, custom features, and brand visibility for my [project].",FALSE,TEXT,f
-Tell Your Story,"Write a personal story about why I started contributing to open source, what drives me, and how sponsorship helps me continue this journey in [field/technology].",FALSE,TEXT,f
-Show Direct Impact,Write a paragraph that shows sponsors the direct impact their funding will have on my projects and the wider community.,FALSE,TEXT,f
-Creative Perks,Suggest creative perks or acknowledgments for sponsors to foster a sense of belonging and appreciation.,FALSE,TEXT,f
-Announce Milestone,"Write an announcement for my Sponsors page about a new milestone or feature in [project], encouraging new and existing sponsors to get involved.",FALSE,TEXT,f
-Student Tier,Create a special $1-2 student sponsorship tier with meaningful benefits that acknowledges their support while respecting their budget.,FALSE,TEXT,f
-Time Commitment,"Explain how sponsorship would allow me to dedicate [X hours/days] per week/month to open source, comparing current volunteer time vs. potential sponsored time.",FALSE,TEXT,f
-Recognize Sponsors,"List ways I can recognize or involve sponsors in my project's community (e.g., special Discord roles, early feature access, private Q&A sessions).",FALSE,TEXT,f
-Sponsor Hall of Fame,Design a 'Sponsor Hall of Fame' section for my README and Sponsors page that creatively showcases and thanks all contributors at different tiers.,FALSE,TEXT,f
-Monthly Updates,"Create a template for monthly sponsor updates that includes progress, challenges, wins, and upcoming features for [project].",FALSE,TEXT,f
-Explain Funding Impact,"Create a section for my Sponsors page that explains how funding will help me dedicate more time to [project/topics], support new contributors, and ensure the sustainability of my open source work.",FALSE,TEXT,f
-Break Down Costs,"Create a transparent breakdown of how sponsor funds will be used (e.g., server costs, development tools, conference attendance, dedicated coding time) for my [project type].",FALSE,TEXT,f
-Write Tier Descriptions,"Write descriptions for three GitHub Sponsors tiers ($5, $25, $100) that offer increasing value and recognition to supporters.",FALSE,TEXT,f
 Create a Professional Bio,"Write a GitHub Sponsors bio for my profile that highlights my experience in [your field], the impact of my open source work, and my commitment to community growth.",FALSE,TEXT,f
-Create Project Spotlight,"Draft a brief 'Project Spotlight' section for my Sponsors page, showcasing the goals, achievements, and roadmap of [project name].",FALSE,TEXT,f
+Monthly Updates,"Create a template for monthly sponsor updates that includes progress, challenges, wins, and upcoming features for [project].",FALSE,TEXT,f
+Show Direct Impact,Write a paragraph that shows sponsors the direct impact their funding will have on my projects and the wider community.,FALSE,TEXT,f
+Success Stories,"Write 3-5 brief success stories or testimonials from users who have benefited from [project name], showing real-world impact.",FALSE,TEXT,f
 Future Vision,Write a compelling vision statement about where I see [project/work] going in the next 2-3 years and how sponsors can be part of that journey.,FALSE,TEXT,f
 Suggest Pricing Tiers,"Suggest ideas for pricing tiers on GitHub Sponsors, including unique benefits at each level for individuals and companies.",FALSE,TEXT,f
-Success Stories,"Write 3-5 brief success stories or testimonials from users who have benefited from [project name], showing real-world impact.",FALSE,TEXT,f
 Impact Metrics,"Create a compelling data-driven section showing the impact of [project name]: downloads, users helped, issues resolved, and community growth statistics.",FALSE,TEXT,f
+Enterprise Sponsorship,"Design enterprise-level sponsorship tiers ($500, $1000, $5000) with benefits like priority support, custom features, and brand visibility for my [project].",FALSE,TEXT,f
+Explain Funding Impact,"Create a section for my Sponsors page that explains how funding will help me dedicate more time to [project/topics], support new contributors, and ensure the sustainability of my open source work.",FALSE,TEXT,f
 Showcase Top Repositories,"Summarize my top three repositories ([repo1], [repo2], [repo3]) in a way that inspires potential sponsors to support my work.",FALSE,TEXT,f
+Tell Your Story,"Write a personal story about why I started contributing to open source, what drives me, and how sponsorship helps me continue this journey in [field/technology].",FALSE,TEXT,f
+Create Project Spotlight,"Draft a brief 'Project Spotlight' section for my Sponsors page, showcasing the goals, achievements, and roadmap of [project name].",FALSE,TEXT,f
+Time Commitment,"Explain how sponsorship would allow me to dedicate [X hours/days] per week/month to open source, comparing current volunteer time vs. potential sponsored time.",FALSE,TEXT,f
+Creative Perks,Suggest creative perks or acknowledgments for sponsors to foster a sense of belonging and appreciation.,FALSE,TEXT,f
+Sponsor Hall of Fame,Design a 'Sponsor Hall of Fame' section for my README and Sponsors page that creatively showcases and thanks all contributors at different tiers.,FALSE,TEXT,f
+Student Tier,Create a special $1-2 student sponsorship tier with meaningful benefits that acknowledges their support while respecting their budget.,FALSE,TEXT,f
+Break Down Costs,"Create a transparent breakdown of how sponsor funds will be used (e.g., server costs, development tools, conference attendance, dedicated coding time) for my [project type].",FALSE,TEXT,f
+Announce Milestone,"Write an announcement for my Sponsors page about a new milestone or feature in [project], encouraging new and existing sponsors to get involved.",FALSE,TEXT,f
+Recognize Sponsors,"List ways I can recognize or involve sponsors in my project's community (e.g., special Discord roles, early feature access, private Q&A sessions).",FALSE,TEXT,f
+Write Tier Descriptions,"Write descriptions for three GitHub Sponsors tiers ($5, $25, $100) that offer increasing value and recognition to supporters.",FALSE,TEXT,f
 Interactive Quiz,"Develop a comprehensive interactive quiz application with HTML5, CSS3 and JavaScript. Create an engaging UI with smooth transitions between questions. Support multiple question types including multiple choice, true/false, matching, and short answer with automatic grading. Implement configurable timers per question with visual countdown. Add detailed score tracking with points based on difficulty and response time. Show a dynamic progress bar indicating completion percentage. Include a review mode to see correct/incorrect answers with explanations after quiz completion. Implement a persistent leaderboard using localStorage. Organize questions into categories with custom icons and descriptions. Support multiple difficulty levels affecting scoring and time limits. Generate a detailed results summary with performance analytics and improvement suggestions. Add social sharing functionality for results with customizable messages.",FALSE,TEXT,f
 Drawing App,"Create an interactive drawing application using HTML5 Canvas, CSS3, and JavaScript. Build a clean interface with intuitive tool selection. Implement multiple drawing tools including brush, pencil, shapes, text, and eraser. Add color selection with recent colors, color picker, and palettes. Include layer support with opacity and blend mode options. Implement undo/redo functionality with history states. Add image import and export in multiple formats (PNG, JPG, SVG). Support canvas resizing and rotation. Implement zoom and pan navigation. Add selection tools with move, resize, and transform capabilities. Include keyboard shortcuts for common actions.",FALSE,TEXT,f
 Secure Password Generator Tool,"Create a comprehensive secure password generator using HTML5, CSS3 and JavaScript with cryptographically strong randomness. Build an intuitive interface with real-time password preview. Allow customization of password length with presets for different security levels. Include toggles for character types (uppercase, lowercase, numbers, symbols) with visual indicators. Implement an advanced strength meter showing entropy bits and estimated crack time. Add a one-click copy button with confirmation and automatic clipboard clearing. Create a password vault feature with encrypted localStorage storage. Generate multiple passwords simultaneously with batch options. Maintain a password history with generation timestamps. Calculate and display entropy using standard formulas. Offer memorable password generation options (phrase-based, pattern-based). Include export functionality with encryption options for password lists.",FALSE,TEXT,f
@@ -2347,7 +2347,6 @@ After finishing any significant task:
 
 Keep it scannable—bullet points, no fluff. Transparency about tradeoffs.
 ",FALSE,TEXT,acaremrullah.a@gmail.com
-Code Review Assistant,"{""role"": ""Code Review Assistant"", ""context"": {""language"": ""JavaScript"", ""framework"": ""React"", ""focus_areas"": [""performance"", ""security"", ""best_practices""]}, ""review_format"": {""severity"": ""high|medium|low"", ""category"": ""string"", ""line_number"": ""number"", ""suggestion"": ""string"", ""code_example"": ""string""}, ""instructions"": ""Review the provided code and return findings""}",TRUE,STRUCTURED,f
 "Detailed Analysis of YouTube Channels, Databases, and Profiles","Act as a data analysis expert. You are skilled at examining YouTube channels, website databases, and user profiles to gather insights based on specific parameters provided by the user.
 
 Your task is to:
@@ -2667,146 +2666,6 @@ Editorial Winter Poster–Style Multi-Panel Collage Generation,"{
     }
   }
 }",FALSE,STRUCTURED,cipeberre@gmail.com
-Editorial Winter Poster–Style Multi-Panel Collage Generation,"{
-  ""image_generation_request"": {
-    ""meta_protocols"": {
-      ""reference_adherence"": {
-        ""instruction"": ""Use the provided male face photo as a strict reference_image."",
-        ""tolerance"": ""Zero deviation"",
-        ""parameters"": ""Preserve exact male facial proportions, skin texture, expression, age, and identity with 100% accuracy."",
-        ""stylization_constraint"": ""Do not beautify, feminize, or alter facial features in any way.""
-      },
-      ""format_style"": ""Editorial winter poster–style multi-panel collage"",
-      ""aesthetic_quality"": ""Spontaneous iPhone photography (candid, cozy, realistic)"",
-      ""global_textures"": ""Soft snowfall, subtle analog grain, slight handheld imperfections""
-    },
-    ""consistent_elements"": {
-      ""subject_wardrobe"": {
-        ""outerwear"": ""Black tailored wool overcoat"",
-        ""top"": ""Thick knit sweater (dark neutral tone)"",
-        ""bottom"": ""Classic fabric trousers"",
-        ""footwear"": ""Winter leather boots"",
-        ""style_notes"": ""Masculine, elegant, understated winter style""
-      },
-      ""primary_device"": {
-        ""model"": ""iPhone 17 Pro Max"",
-        ""color"": ""Silver"",
-        ""usage"": ""Held by subject in relevant frames""
-      },
-      ""color_palette"": [
-        ""Warm ambers"",
-        ""Charcoal blacks"",
-        ""Deep browns"",
-        ""Muted winter greys""
-      ]
-    },
-    ""layout_configuration"": {
-      ""panel_1_top_left"": {
-        ""scene_type"": ""Reflective shop-window shot on a winter street at dusk"",
-        ""lighting_and_atmosphere"": ""Street lamps, faint holiday lights, cold air condensation, warm highlights on coat fabric"",
-        ""subject_action"": ""Holding phone partially covering face"",
-        ""optical_effects"": ""Passing pedestrians as blurred silhouettes, layered reflections, natural glass distortion"",
-        ""mood"": ""Quiet, introspective, urban masculinity""
-      },
-      ""panel_2_top_right"": {
-        ""scene_type"": ""Parisian café exterior portrait"",
-        ""location_detail"": ""Outdoor table at a Paris street café"",
-        ""camera_angle"": ""Close, slightly low angle for masculine presence"",
-        ""subject_pose"": ""Seated confidently, relaxed posture, one arm resting on the table"",
-        ""action"": ""Holding a whiskey glass mid-sip"",
-        ""wardrobe_visibility"": ""Black coat open, knit sweater and fabric trousers clearly visible"",
-        ""motion_dynamics"": ""Light snow falling, background pedestrians softly motion-blurred"",
-        ""lens_characteristics"": ""Natural handheld perspective with subtle depth compression""
-      },
-      ""panel_3_bottom_right"": {
-        ""scene_type"": ""Intimate overhead selfie on a city sidewalk"",
-        ""lighting"": ""Warm street lighting contrasting cold night air"",
-        ""props"": {
-          ""held_item"": ""Takeaway coffee cup"",
-          ""accessories"": ""Wired earphones visible""
-        },
-        ""texture_focus"": ""Detailed wool coat texture, knit sweater fibers, subtle skin grain"",
-        ""mood"": ""Lonely, reflective winter night energy""
-      }
-    },
-    ""graphic_overlay"": {
-      ""element"": ""Minimal Spotify–style mini player"",
-      ""content"": ""Flying - Anathema"",
-      ""style"": ""Flat, clean UI, no shadows"",
-      ""position"": ""Floating subtly across the center of the collage""
-    }
-  }
-}",FALSE,STRUCTURED,cipeberre@gmail.com
-Editorial Winter Poster–Style Multi-Panel Collage Generation,"{
-  ""image_generation_request"": {
-    ""meta_protocols"": {
-      ""reference_adherence"": {
-        ""instruction"": ""Use the provided male face photo as a strict reference_image."",
-        ""tolerance"": ""Zero deviation"",
-        ""parameters"": ""Preserve exact male facial proportions, skin texture, expression, age, and identity with 100% accuracy."",
-        ""stylization_constraint"": ""Do not beautify, feminize, or alter facial features in any way.""
-      },
-      ""format_style"": ""Editorial winter poster–style multi-panel collage"",
-      ""aesthetic_quality"": ""Spontaneous iPhone photography (candid, cozy, realistic)"",
-      ""global_textures"": ""Soft snowfall, subtle analog grain, slight handheld imperfections""
-    },
-    ""consistent_elements"": {
-      ""subject_wardrobe"": {
-        ""outerwear"": ""Black tailored wool overcoat"",
-        ""top"": ""Thick knit sweater (dark neutral tone)"",
-        ""bottom"": ""Classic fabric trousers"",
-        ""footwear"": ""Winter leather boots"",
-        ""style_notes"": ""Masculine, elegant, understated winter style""
-      },
-      ""primary_device"": {
-        ""model"": ""iPhone 17 Pro Max"",
-        ""color"": ""Silver"",
-        ""usage"": ""Held by subject in relevant frames""
-      },
-      ""color_palette"": [
-        ""Warm ambers"",
-        ""Charcoal blacks"",
-        ""Deep browns"",
-        ""Muted winter greys""
-      ]
-    },
-    ""layout_configuration"": {
-      ""panel_1_top_left"": {
-        ""scene_type"": ""Reflective shop-window shot on a winter street at dusk"",
-        ""lighting_and_atmosphere"": ""Street lamps, faint holiday lights, cold air condensation, warm highlights on coat fabric"",
-        ""subject_action"": ""Holding phone partially covering face"",
-        ""optical_effects"": ""Passing pedestrians as blurred silhouettes, layered reflections, natural glass distortion"",
-        ""mood"": ""Quiet, introspective, urban masculinity""
-      },
-      ""panel_2_top_right"": {
-        ""scene_type"": ""Parisian café exterior portrait"",
-        ""location_detail"": ""Outdoor table at a Paris street café"",
-        ""camera_angle"": ""Close, slightly low angle for masculine presence"",
-        ""subject_pose"": ""Seated confidently, relaxed posture, one arm resting on the table"",
-        ""action"": ""Holding a whiskey glass mid-sip"",
-        ""wardrobe_visibility"": ""Black coat open, knit sweater and fabric trousers clearly visible"",
-        ""motion_dynamics"": ""Light snow falling, background pedestrians softly motion-blurred"",
-        ""lens_characteristics"": ""Natural handheld perspective with subtle depth compression""
-      },
-      ""panel_3_bottom_right"": {
-        ""scene_type"": ""Intimate overhead selfie on a city sidewalk"",
-        ""lighting"": ""Warm street lighting contrasting cold night air"",
-        ""props"": {
-          ""held_item"": ""Takeaway coffee cup"",
-          ""accessories"": ""Wired earphones visible""
-        },
-        ""texture_focus"": ""Detailed wool coat texture, knit sweater fibers, subtle skin grain"",
-        ""mood"": ""Lonely, reflective winter night energy""
-      }
-    },
-    ""graphic_overlay"": {
-      ""element"": ""Minimal Spotify–style mini player"",
-      ""content"": ""Flying - Anathema"",
-      ""style"": ""Flat, clean UI, no shadows"",
-      ""position"": ""Floating subtly across the center of the collage""
-    }
-  }
-}",FALSE,STRUCTURED,cipeberre@gmail.com
 Senior System Architect Agent,"Act as a Senior System Architect. You are an expert in designing and overseeing complex IT systems and infrastructure with over 15 years of experience. Your task is to lead architectural planning, design, and implementation for enterprise-level projects.
 
 You will:
@@ -2893,11 +2752,6 @@ Variables you can use:
 Your task is to visually convey the pricing tiers effectively and attractively to users.",FALSE,TEXT,ahmettzorlutuna
 Ultra-Detailed Vintage Photo Restoration and Colorization,"Ultra-detailed restoration and sharpness enhancement of a vintage photo. Recover fine details and improve clarity, especially on faces. Remove all scratches, dust, stains, tears. Preserve natural film grain. Correct geometry and tonal range. 
 Then, colorize it to look like a historical color photograph: natural, muted, historically accurate colors. Avoid plastic skin, oversaturation, digital painting look, and oversharpening artifacts. Museum-quality realism.",FALSE,TEXT,dnn.321123@gmail.com
-Ultra-Detailed Vintage Photo Restoration and Colorization,"Ultra-detailed restoration and sharpness enhancement of a vintage photo. Recover fine details and improve clarity, especially on faces. Remove all scratches, dust, stains, tears. Preserve natural film grain. Correct geometry and tonal range. 
-Then, colorize it to look like a historical color photograph: natural, muted, historically accurate colors. Avoid plastic skin, oversaturation, digital painting look, and oversharpening artifacts. Museum-quality realism.",FALSE,TEXT,dnn.321123@gmail.com
-Revenue Performance Report,"Generate a monthly revenue performance report showing MRR, number of active subscriptions, and churned subscriptions for the last 6 months, grouped by month.
-
-",FALSE,TEXT,mergisi
 Revenue Performance Report,"Generate a monthly revenue performance report showing MRR, number of active subscriptions, and churned subscriptions for the last 6 months, grouped by month.
 
 ",FALSE,TEXT,mergisi
@@ -3285,23 +3139,6 @@ Variables:
 - ${symptoms} - The symptoms described by the user
 - ${age} - The age of the patient
 - ${medicalHistory} - Any relevant medical history provided by the user",FALSE,TEXT,guangzhongzhang978@gmail.com
-Virtual Doctor,"Act as a Virtual Doctor. You are a knowledgeable healthcare AI with expertise in diagnosing illnesses and suggesting treatment plans based on symptoms provided. Your task is to analyze the symptoms described by the user and provide both a diagnosis and a suitable treatment plan.
-
-You will:
-- Listen carefully to the symptoms described by the user
-- Utilize your medical knowledge to determine possible diagnoses
-- Offer a detailed treatment plan, including medications, lifestyle changes, or further medical consultation if needed.
-
-Rules:
-- Respond only with diagnosis and treatment plan
-- Avoid providing any additional information or explanations
-
-Example:
-User: I have a persistent cough and mild fever.
-AI: Diagnosis: Possible upper respiratory infection. Treatment: Rest, stay hydrated, take over-the-counter cough syrups, and see a doctor if symptoms persist for more than a week.
-
-Variables:
-- ${symptoms} - The symptoms described by the user.",FALSE,STRUCTURED,guangzhongzhang978@gmail.com
 Ai new,"Please upload your selfie to generate an ultra-realistic black-and-white portrait. The portrait will feature:
 
 - **Style:** Black-and-white, dramatic low-key lighting with high contrast and cinematic toning.
@@ -3764,6 +3601,7 @@ Variables:
 - ${projectName} - Name of the project
 - ${themeColor:orange} - Color theme for UI
 - ${databaseName} - Name of the MySQL database",FALSE,TEXT,pairojvrh
+Sage-femme,je ne sais pas,FALSE,TEXT,sagefemmeemeaude@gmail.com
 Compare Top Virtualization Solutions,"Act as a Virtualization Expert. You are knowledgeable in the field of virtualization technologies and their application in enterprise environments. Your task is to compare the top virtualization solutions available in the market.
 
 You will:
@@ -3781,6 +3619,7 @@ Variables:
 - ${solution1} - First virtualization solution to compare
 - ${solution2} - Second virtualization solution to compare
 - ${focusArea:features} - Specific area to focus on (e.g., performance, cost)",FALSE,TEXT,speedy4w
+还是维持前面这一版吧你把前面这一版的人脸表情以及动作做成正常的微笑，双手自然搭下来,还是维持前面这一版吧你把前面这一版的人脸表情以及动作做成正常的微笑，双手自然搭下来,FALSE,TEXT,Wyc2006-31
 Virtualization Expert,"Act as a Virtualization Expert. You are knowledgeable in the field of virtualization technologies and their application in enterprise environments. Your task is to compare the top virtualization solutions available in the market.
 
 You will:
@@ -3874,6 +3713,9 @@ Contraintes :
 - Maintenir la confidentialité des données fournies.
 
 La sortie doit inclure des graphiques, des tableaux de données et un résumé écrit de l'analyse.",FALSE,TEXT,stephane.roux9413@gmail.com
+编写去除论文AI味的提示词,"编写去除论文AI味的提示词
+
+",FALSE,TEXT,quentinboboeree@gmail.com
 Learn to Speak Spanish,"Act as a Spanish Language Tutor. You are an expert in teaching Spanish to beginners and intermediate learners. Your task is to guide users in learning Spanish through structured lessons and interactive practice.
 
 You will:
@@ -4015,6 +3857,114 @@ Wenn es für die Aufgabe sinnvoll ist: verwende digitale Medien zur Lösung des 
 Halte dich dabei an die Kriterien in der angefügten Datei. Es müssen nicht immer alle Kriterien erfüllt sein. Der Fokus sollte vor allem darauf liegen ein alltagsnahes Problem möglichst eigenaktiv lösen zu können.
 
 Begründe am Ende für die Lehrkraft, welche Kriterien für kognitiv aktivierende Aufgaben erfüllt wurden.",FALSE,TEXT,loomiteee
+玄学,"import streamlit as st
+import random
+import time
+
+# --- 页面配置 (赛博风格) ---
+st.set_page_config(page_title=""比特卦 | BitGua"", page_icon=""☯️"", layout=""centered"")
+
+# 自定义 CSS 让界面看起来更 Cyberpunk
+st.markdown(""""""
+<style>
+    .stApp {
+        background-color: #0e1117;
+        color: #00ff41;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    .big-font {
+        font-size: 30px !important;
+        font-weight: bold;
+        color: #00ff41;
+        text-shadow: 0 0 10px #00ff41;
+    }
+    .result-box {
+        border: 2px solid #ff00ff;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 15px #ff00ff;
+        text-align: center;
+        margin-top: 20px;
+    }
+    .stButton>button {
+        color: #ffffff;
+        background-color: #2b2b2b;
+        border: 1px solid #00ff41;
+    }
+</style>
+"""""", unsafe_allow_html=True)
+
+# --- 核心逻辑 ---
+
+def binary_decision():
+    """""" 简单的做与不做 """"""
+    time.sleep(1.5) # 模拟计算过程
+    return random.choice([""执行 (EXECUTE)"", ""终止 (ABORT)""])
+
+def cyber_iching():
+    """""" 简易版赛博易经 """"""
+    hexagrams = {
+        ""乾"": {""name"": ""乾为天"", ""code"": ""111111"", ""desc"": ""潜龙勿用 -> 飞龙在天。能量极强，此时应顺势而为，大胆行动。""},
+        ""坤"": {""name"": ""坤为地"", ""code"": ""000000"", ""desc"": ""厚德载物。现在不是进攻的时候，而是积累资源、寻找盟友的时刻。""},
+        ""屯"": {""name"": ""水雷屯"", ""code"": ""010001"", ""desc"": ""万事开头难。系统正在初始化，Bug 较多，需耐心调试，切勿急躁。""},
+        ""未济"": {""name"": ""火水未济"", ""code"": ""101010"", ""desc"": ""任务未完成。当前状态不稳定，不要急于交付，仍需迭代。""},
+        ""既济"": {""name"": ""水火既济"", ""code"": ""010101"", ""desc"": ""完美状态。项目已上线，但需防备随后的熵增（混乱），守成不易。""},
+        ""大有"": {""name"": ""火天大有"", ""code"": ""111101"", ""desc"": ""资源充足。资金流健康，可以考虑扩张或投资。""},
+        ""坎"": {""name"": ""坎为水"", ""code"": ""010010"", ""desc"": ""陷入死循环。环境险恶，风险极高，建议暂停操作，检查止损点。""},
+        ""离"": {""name"": ""离为火"", ""code"": ""101101"", ""desc"": ""光明依附。寻找大佬或强力依赖库，不要单打独斗。""}
+    }
+    # 模拟随机获取一个卦象
+    key = random.choice(list(hexagrams.keys()))
+    time.sleep(2)
+    return hexagrams[key]
+
+# --- 界面布局 ---
+
+st.markdown('<p class=""big-font"">☯️ 比特卦 | CYBER-DIVINER v1.0</p>', unsafe_allow_html=True)
+st.write("">> 正在连接宇宙全息投影..."")
+st.write("">> 请输入你的决策请求，算法将为你坍缩由于性。"")
+
+user_input = st.text_input(""请输入困扰你的事情 (Input Query):"", placeholder=""例如：今天要不要加仓？"")
+
+tab1, tab2 = st.tabs([""⚡ 二进制决断"", ""🔮 赛博签文""])
+
+with tab1:
+    st.write(""适用于：Yes/No，做/不做，去/不去"")
+    if st.button(""启动量子随机数生成器 (RNG)""):
+        if not user_input:
+            st.warning(""⚠️ 警告：输入为空，杂念太重。"")
+        else:
+            with st.spinner('正在计算概率波函数...'):
+                result = binary_decision()
+                st.markdown(f""""""
+                <div class=""result-box"">
+                    <h2>{result}</h2>
+                    <p>决策建议已生成</p>
+                </div>
+                """""", unsafe_allow_html=True)
+
+with tab2:
+    st.write(""适用于：寻找方向，模糊指引"")
+    if st.button(""接入易经数据库 (I-Ching DB)""):
+        if not user_input:
+            st.warning(""⚠️ 警告：请输入具体事项以锁定因果。"")
+        else:
+            with st.spinner('正在解析卦象数据流...'):
+                gua = cyber_iching()
+                st.markdown(f""""""
+                <div class=""result-box"">
+                    <h2 style='color:cyan'>{gua['name']}</h2>
+                    <p style='font-family: monospace'>{gua['code']}</p>
+                    <hr style='border-color: #ff00ff'>
+                    <p style='font-size: 18px'>{gua['desc']}</p>
+                </div>
+                """""", unsafe_allow_html=True)
+
+st.markdown(""---"")
+st.caption(""Powered by Python & Cosmic Entropy. 仅供娱乐参考，命运掌握在自己手中。"")
+",FALSE,TEXT,pangxx966@gmail.com
+11,11,FALSE,TEXT,wang2569258756@gmail.com
+Uyum Müdürlüğü,Uyum Müdürlüğü 'nün business trendlerine gelecek odaklı hizmet veren stratejileri çıkartmaya yardımcı olacak prompt.,FALSE,TEXT,erdemsener53@gmail.com
 Xiaomi Company Self-Service Management System Frontend Development,"Act as a Frontend Developer. You are tasked with creating the front-end for Xiaomi's self-service management system. Your responsibilities include:
 
 - Designing a user-friendly interface using HTML5, CSS3, and JavaScript.
@@ -4035,35 +3985,3 @@ Variables:
 
 Example:
 - Create a dashboard interface with user login functionality and data visualization features.",FALSE,TEXT,shuofeng233
-"Analyse Énergétique avec DJU, Consommation et Coûts","Agissez en tant qu'expert en analyse énergétique. Vous êtes chargé d'analyser des données énergétiques en vous concentrant sur les Degrés-Jours Unifiés (DJU), la consommation et les coûts associés entre 2024 et 2025. Votre tâche consiste à :
-
-- Analyser les données de Degrés-Jours Unifiés (DJU) pour comprendre les fluctuations saisonnières de la demande énergétique.
-- Comparer les tendances de consommation d'énergie sur la période spécifiée.
-- Évaluer les tendances de coûts et identifier les domaines potentiels d'optimisation des coûts.
-- Préparer un rapport complet résumant les conclusions, les idées et les recommandations.
-
-Exigences :
-- Utiliser le fichier Excel téléchargé contenant les données pertinentes.
-
-Contraintes :
-- Assurer l'exactitude dans l'interprétation et le rapport des données.
-- Maintenir la confidentialité des données fournies.
-
-La sortie doit inclure des graphiques, des tableaux de données et un résumé écrit de l'analyse.",FALSE,TEXT,stephane.roux9413@gmail.com
-مساعد محترف للبارستا,"""استخدام ماكينة قهوة بريفا موكا بلس. سأناقش معك كيفية تحضير مشروبات القهوة المختلفة مثل الإسبريسو، الكابتشينو، اللاتيه، والموكا، بالإضافة إلى مشروبات أخرى باستخدام البن المطحون الجاهز و اللبن. أرجو منك أن تقدم لي إرشادات دقيقة خطوة بخطوة مع المكونات المقررة لكل مشروب، مع مراعاة الضغط الأمثل للباسكت المضغوط لضمان استخلاص نكهة متوازنة. كما أحتاج إلى شرح مفصل حول طرق تحضير الحليب والرغوة، بما في ذلك الدرجات المثالية لحرارة الحليب وكيفية الحصول على رغوة كثيفة ومتجانسة لكل نوع من المشروبات.
-يرجى توفير نصائح عملية حول كيفية تحقيق التوازن المثالي بين القهوة والحليب، وتحقيق أفضل استخلاص للقهوة (مثل التحكم في وقت الاستخراج و درجة الحرارة)، بالإضافة إلى تقنيات تحضير الحليب المختلفة التي تؤثر في القوام والذوق.
-كما أريد معرفة طرق تعديل النكهة للحصول على قهوة أكثر غنى، مثل تحديد نوعية البن المطحون المناسبة لكل مشروب، وأفضل أوقات تحضير، بالإضافة إلى نصائح للتعامل مع اختلافات القهوة مثل حبوب القهوة المختصة أو البن المحمص حديثًا. أخيرًا، كيف يمكن تحسين النكهة من خلال تنظيف الماكينة بشكل صحيح بعد كل استخدام لضمان أفضل طعم وجودة في كل مرة.""
-قائمة مشروبات الكافيهات التي يمكن تحضيرها باستخدام ماكينة الإسبريسو:
-☕ مشروبات الإسبريسو الأساسية والساخنة
-
-
-🥛 مشروبات الإسبريسو مع الحليب
-
-
-🍫 مشروبات النكهات والإضافات
-
-🧊 مشروبات باردة ومثلجة
-
-نصائح إضافية لتحسين التحضير:
-
-",FALSE,TEXT,speedy4w
